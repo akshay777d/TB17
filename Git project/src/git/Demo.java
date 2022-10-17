@@ -6,8 +6,10 @@ public class Demo {
 		
 		System.out.println("Hello git pull");
 		System.out.println("Hello demo");
-		
-		
-		
 	}
+	public void m1()
+	{
+		System.out.println("m1====demo")
+	}	
+		
 }
